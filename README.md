@@ -16,9 +16,9 @@ Análisis de datos de la tabla.
    - scipy
 4. Ejecuta el proyecto.
 
-### 🪐 Autor
+### 🪐 Autores
 
-Rocío Ramírez
+Rocío Ramírez y David
 
 ### 🌌 Proceso llevado a cabo para la limpieza y corrección
 - Se cargan los archivos CSV usando `pd.read_csv()` con `on_bad_lines='skip'` para ignorar filas problemáticas.
