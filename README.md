@@ -20,7 +20,7 @@ Análisis de datos de la tabla.
 
 Rocío Ramírez
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección:
+### 🌌 Proceso llevado a cabo para la limpieza y corrección
 - Se cargan los archivos CSV usando `pd.read_csv()` con `on_bad_lines='skip'` para ignorar filas problemáticas.
 - Se visualizan las primeras y últimas filas con `df.head()` y `df.tail()`.
 - Se revisa la estructura y tipos de datos con `df.info()`, `df.dtypes`, y `df.describe()`.
@@ -49,6 +49,7 @@ Rocío Ramírez
 ![8 1](https://github.com/user-attachments/assets/cba4d7f7-dc42-4913-84a4-d0da88ef7c9d)
 ### 🚀 ¡Enhorabuena por conocer tu personalidad, no todos se atreven!
 No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consejos.
+
 ### ❄️ Si eres introvertido:
 - Respeta tu necesidad de espacio: Los momentos a solas ayudan a procesar emociones, ideas y descansar de la sobreestimulación.
 - Exprésate a tu ritmo: Escribir, crear o comunicarte en grupos pequeños.
@@ -60,4 +61,5 @@ No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consej
 - Aprende a leer el ritmo de los demás: Dar espacio y escuchar activamente fortalece tus relaciones.
 - Practica estar contigo sin estímulos: El silencio no es tu enemigo.
 - Cuida no usar la actividad para evitar emociones: Hacer pausas no te resta vitalidad, te la devuelve.
+- 
 ### ✨ Tanto si encuentras calma en tu mundo interior como si te recargas en la energía de los demás, recuerda que tu forma de ser no necesita corregirse, sino comprenderse y cuidarse.
