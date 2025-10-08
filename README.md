@@ -48,6 +48,7 @@ Rocío Ramírez
 ![7 1](https://github.com/user-attachments/assets/09813d4a-9d28-4d05-8889-ee076363ab65)
 ![8 1](https://github.com/user-attachments/assets/cba4d7f7-dc42-4913-84a4-d0da88ef7c9d)
 ### 🚀 ¡Enhorabuena por conocer tu personalidad, no todos se atreven!
+
 No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consejos.
 
 ### ❄️ Si eres introvertido:
