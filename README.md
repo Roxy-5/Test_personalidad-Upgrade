@@ -1,5 +1,5 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
-### 🛸 Informe3
+### 🛸 Test de personalidad (introvertido-extrovertido)
 
 Análisis de datos de la tabla.
 
