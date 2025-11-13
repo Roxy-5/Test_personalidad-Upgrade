@@ -1,7 +1,6 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
-### 🛸 Test de personalidad (introvertido-extrovertido)
-
-Análisis de datos de la tabla.
+### 🛸 Test de personalidad 
+Análisis exploratorio y modelo de machine learning para predecir personalidad (Extrovert/Introvert) basado en patrones de comportamiento social, incluyendo limpieza de datos y visualizaciones.
 
 ### 🌍 Cómo usar
 
@@ -14,7 +13,8 @@ Análisis de datos de la tabla.
    - scikit-learn (sklearn)
    - scipy
 4. Ejecuta el proyecto.
-5. Ejecuta la presentación en Power BI.
+5. Ejecuta el modelo entrenado (.pkl)
+6. Ejecuta la presentación en Power BI.
 
 ### 🪐 Autores
 
