@@ -14,6 +14,7 @@ Análisis de datos de la tabla.
    - scikit-learn (sklearn)
    - scipy
 4. Ejecuta el proyecto.
+5. Ejecuta la presentación en Power BI.
 
 ### 🪐 Autores
 
