@@ -1,9 +1,8 @@
 ![](https://github.com/Roxy-5/Informe1/blob/main/images.jpg)
-### 🛸 Test de personalidad 
+### 📊 Test de personalidad 
 Análisis exploratorio y modelo de machine learning para predecir personalidad (Extrovert/Introvert) basado en patrones de comportamiento social, incluyendo limpieza de datos y visualizaciones.
 
-### 🌍 Cómo usar
-
+### 🚀 Cómo usar
 1. Clona este repositorio.
 2. Instala las dependencias necesarias:
    - pandas
@@ -20,7 +19,7 @@ Análisis exploratorio y modelo de machine learning para predecir personalidad (
 
 Rocío Ramírez y David
 
-### 🌌 Proceso llevado a cabo para la limpieza y corrección
+### 📈 Proceso llevado a cabo para la limpieza y corrección
 - Se cargan los archivos CSV usando `pd.read_csv()` con `on_bad_lines='skip'` para ignorar filas problemáticas.
 - Se visualizan las primeras y últimas filas con `df.head()` y `df.tail()`.
 - Se revisa la estructura y tipos de datos con `df.info()`, `df.dtypes`, y `df.describe()`.
@@ -47,7 +46,7 @@ Rocío Ramírez y David
 ![6 1](https://github.com/user-attachments/assets/86b62c6d-792b-4df5-bb1f-18517098ac1f)
 ![7 1](https://github.com/user-attachments/assets/09813d4a-9d28-4d05-8889-ee076363ab65)
 ![8 1](https://github.com/user-attachments/assets/cba4d7f7-dc42-4913-84a4-d0da88ef7c9d)
-### 🚀 ¡Enhorabuena por conocer tu personalidad, no todos se atreven!
+### 🎯 ¡Enhorabuena por conocer tu personalidad, no todos se atreven!
 
 No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consejos.
 
